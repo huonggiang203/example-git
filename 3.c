@@ -12,7 +12,7 @@ void nhap(int a[], int n){
 }
 void xuat(int a[], int n){
  
-    printf("Mang vua nhap la: \n");
+    printf("Mang vua nhap la hacked: \n");
  
     for(int i=0;i<n;i++){
  
