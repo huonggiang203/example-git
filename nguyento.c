@@ -7,7 +7,7 @@ void nhap (int a[], int &n)
   //sử dụng vòng lặp do..while để yêu cầu người dùng nhập vào số lương phần tử trong mảng
     do
     {
-        printf("\nNhập số phần tử trong mảng: ");
+        printf("\nNhập số phần tử trong mảng: 0A");
         scanf("%d", &n);
         //nếu người dùng nhập vào số lượng <= 0 hoặc > MAX thì yêu cầu nhập lại
         if(n <= 0 || n > MAX)

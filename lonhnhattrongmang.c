@@ -52,7 +52,7 @@ int main()
     scanf("%d", &n);
     nhapmang(a, n);
     printf("----- gia tri lon nhat cua mang la ----\n");
-    printf("pp1 : %d\n", max(a, n));
+    printf("pp1 : gia tri lon nhat %d\n", max(a, n));
     printf("pp2 : %d\n", solon(a, n));
     printf("pp3: %d\n", dequi(a, n));
     return 0;
