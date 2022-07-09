@@ -10,7 +10,7 @@ int main()
     }
     else if(a==0)
     {
-        printf("%d khong la so nguyen am , khong la so nguyen duong",a);
+        printf("%d khong la so nguyen am , khong la so nguyen duong hfjgdt",a);
     }
     else{
         printf("%d la so nguyen duong",a);
